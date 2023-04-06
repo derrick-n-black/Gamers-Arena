@@ -1,4 +1,4 @@
-# Gamers' Arena
+# Gamers' Arena Data Analysis Project
 <img src="images/Gamers'%20Arena%20logo.png" width="600" height="300">
 
 **Business Context:** <br />
