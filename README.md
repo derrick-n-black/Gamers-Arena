@@ -12,3 +12,6 @@ As an analytics lead, you must design an interactive dashboard that helps the di
 * How have GlobalSales been distributed across platforms and genres?
 * Which are the top-N games based upon UserScore, CriticScore, and the number of users rated?
 * What are the top N games based on the number of users rated and what is the average UserScore for these games?
+
+**Tableau Solution:** <br />
+Full Gamers' Arena interactive dashboard can be found on [Tableau Public](https://public.tableau.com/app/profile/derrick.black/viz/Project-GamersArena-DerrickBlack/GamersArenaDashboard?publish=yes).
